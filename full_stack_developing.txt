@@ -1,0 +1,4 @@
+A full-stack engineer is a high-level software engineer that works to design,test and implement various software applications.
+They create software, applications and scalable web services, while also providing leadership for coding teams. The term full-stack refers to the engineer's ability to work on both the front-end and back-end development of an application. Full stack engineers usually possess prodigious skills and are involved in each stage of software development. This can include data structure completion, architecture design, code review, performance evaluation, internal tool management and updates. 
+Fullstack engineers should be vast in languages such as Python, Javascript,C, Node, HTML/CSS, SQL, PHP etc.
+
